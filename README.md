@@ -37,21 +37,15 @@ curl --request GET \
   ```
   ## Header Parameters
   
-  |Authorization|String|
+ |Authorization|String|
  |---|---|
-  |             |The most recent Authorization token. This will have the format Bearer + {space} + {accessToken}. Example: Bearer KGNsaWVudF9pZDpjbGllbnRfc2VjcmV0KQ==.|
-  
+ |             |The most recent Authorization token. This will have the format Bearer + {space} + {accessToken}. Example: Bearer KGNsaWVudF9pZDpjbGllbnRfc2VjcmV0KQ==.|
   |UUID|String|
-  ----------------------
-  |             | |128 bit random UUID generated uniquely for every request|
-  
+  |             |128 bit random UUID generated uniquely for every request|
   |Accept|String|
-  ----------------------
-  |             | |Content-Type that are acceptable for the response|
-  
+  |             | Content-Type that are acceptable for the response|
   |client_id|String|
-  ----------------------
-  |             | |client_id generated during consumer onboarding|
+  |             | client_id generated during consumer onboarding|
   
   ## Responses
   
