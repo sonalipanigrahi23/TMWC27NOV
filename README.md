@@ -1,5 +1,4 @@
-# TMWC27NOV
-== To practice git hub class ==
+# Product Description of Credit tCard
 
 ### Introduction
 ** Summary **
@@ -223,13 +222,6 @@ curl --request GET \
   
   ```
   
-H~2~o
-
-X^2^
-
-~ The world is flat ~
-
-Refer to the mark down book. [^1]
 
 ### Definitions
 -----------------
@@ -239,4 +231,4 @@ accountGroup type : string
 
 Account group is a classification of accounts according to their common characteristics. Values include: CHECKING, SAVINGS, CREDITCARD, LOAN, LINEOFCREDIT, BROKERAGE AND RETIREMENT
 
-![Picture1](https://user-images.githubusercontent.com/119153191/204124565-d2fd7122-2aa8-4d31-87db-027bc119257f.png)
+![Capture](https://user-images.githubusercontent.com/119153191/204854179-accd1ce6-1858-4f32-86cf-69919b779db1.JPG)
